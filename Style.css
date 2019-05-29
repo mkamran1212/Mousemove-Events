@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    overflow: hidden;
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(./img.jpeg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    cursor: none;
+}
+
+#cursor{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    background: url(./img\ 1.jpeg);
+    background-size: cover;
+    background-position: center;
+    border-radius: 40%;
+    background-attachment: fixed;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
